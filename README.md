@@ -1,5 +1,5 @@
 ### My portfolio
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) http://rostislavlitovkin.pythonanywhere.com/aboutme
+http://rostislavlitovkin.pythonanywhere.com/aboutme
 
 <!--
 **RostislavLitovkin/RostislavLitovkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
