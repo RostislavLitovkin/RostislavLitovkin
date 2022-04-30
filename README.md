@@ -1,6 +1,7 @@
 ### My portfolio
 http://rostislavlitovkin.pythonanywhere.com/aboutme
 
+![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
 <!--
 **RostislavLitovkin/RostislavLitovkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
