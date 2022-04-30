@@ -1,6 +1,9 @@
 ### My portfolio
 http://rostislavlitovkin.pythonanywhere.com/aboutme
 
+![20220304_223334](https://user-images.githubusercontent.com/77352013/166113101-f752835d-438e-48ec-a1e4-93968416e6b1.jpg)
+
+
 <!--
 **RostislavLitovkin/RostislavLitovkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
