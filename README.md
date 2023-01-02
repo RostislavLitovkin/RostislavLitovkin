@@ -1,6 +1,8 @@
 ### My portfolio
 http://rostislavlitovkin.pythonanywhere.com/aboutme
 
+English presentation: https://docs.google.com/presentation/d/16W4XzstqOn4nqlKD0mLd5oPgQnvu-72fal3I3eI3VDw/edit?usp=sharing
+
 ![github thumbnail](https://user-images.githubusercontent.com/77352013/166113688-e7c797e1-e267-41ec-854c-752ef09dc1e9.png)
 
 
