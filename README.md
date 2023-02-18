@@ -1,8 +1,6 @@
 ### My portfolio
 http://rostislavlitovkin.pythonanywhere.com/aboutme
 
-Komanditní společnost prezentace: https://docs.google.com/presentation/d/1UelFPuiI71GDksihQfc0Sy99ss_8mkQeFSxs5Fc9ln0/edit#slide=id.p
-
 ![github thumbnail](https://user-images.githubusercontent.com/77352013/166113688-e7c797e1-e267-41ec-854c-752ef09dc1e9.png)
 
 
