@@ -1,7 +1,7 @@
 ### My portfolio
 http://rostislavlitovkin.pythonanywhere.com/aboutme
 
-https://docs.google.com/presentation/d/1IfqYcd1qBsYHWoSQyn746c2e0-i9I3NO8dtth1OY7Y4/edit?usp=sharing
+https://docs.google.com/presentation/d/10eGHK9xM21OZEg07zMuF-bpIilBracTXK5acCYXjfBI/edit?usp=sharing
 
 ![github thumbnail](https://user-images.githubusercontent.com/77352013/166113688-e7c797e1-e267-41ec-854c-752ef09dc1e9.png)
 
