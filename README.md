@@ -1,7 +1,7 @@
 ### My portfolio
 http://rostislavlitovkin.pythonanywhere.com/aboutme
 
-https://docs.google.com/presentation/d/10eGHK9xM21OZEg07zMuF-bpIilBracTXK5acCYXjfBI/edit?usp=sharing
+https://docs.google.com/presentation/d/1Awp3tKaLpuuom8q59BE6JQh9bT1suYuUvTFE9Pj4lQw/edit?usp=drivesdk
 
 ![github thumbnail](https://user-images.githubusercontent.com/77352013/166113688-e7c797e1-e267-41ec-854c-752ef09dc1e9.png)
 
