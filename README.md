@@ -4,7 +4,6 @@ http://rostislavlitovkin.pythonanywhere.com/aboutme
 https://docs.google.com/presentation/d/10cqESOPtIiCNM9gep6bCMBWkFML-xof_tyg40rIOPjo/edit?usp=sharing
 
 ![github thumbnail](https://user-images.githubusercontent.com/77352013/166113688-e7c797e1-e267-41ec-854c-752ef09dc1e9.png)
-<img width="1512" alt="Screenshot 2023-12-13 at 21 26 21" src="https://github.com/RostislavLitovkin/RostislavLitovkin/assets/77352013/ac3117c0-d54b-4e73-be64-a2e17a77a22c">
 
 
 
