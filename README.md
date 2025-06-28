@@ -1,12 +1,4 @@
-### My portfolio
-http://rostislavlitovkin.pythonanywhere.com/aboutme
-
-https://www.canva.com/design/DAF9jOAZhws/z2Xw_G2R9_Fn0dIV8VY70g/edit?utm_content=DAF9jOAZhws&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-
-![github thumbnail](https://user-images.githubusercontent.com/77352013/166113688-e7c797e1-e267-41ec-854c-752ef09dc1e9.png)
-
-
-
+# Just look at my projects...
 <!--
 **RostislavLitovkin/RostislavLitovkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
